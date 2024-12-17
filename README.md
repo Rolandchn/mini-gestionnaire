@@ -1,4 +1,4 @@
-### Énoncé 
+# Énoncé 
 On considère un planning comme un ensemble de tâches, chacune possédant : un nom, une durée, et un ensemble de prédécesseurs.
 On considère 4 types de liens pour les prédécesseurs :
 - Fin-Début : Si A est prédécesseur de B, alors cela implique que B ne peux pas commencer tant que A n'est pas terminée
@@ -23,7 +23,7 @@ https://youtu.be/Ex_wD26Ixbc
 Même consigne que pour le cas obligatoire, avec cette fois-ci la possibilité d'avoir n'importe lequel des liens, et un lag entier positif ou négatif.
 
 
-### Lancer le programme
+# Lancer le programme
 Rentrez dans la classe Main.java pour lancer le programme.
 
 Le programme se lancera sur Terminal.
