@@ -23,8 +23,8 @@ https://youtu.be/Ex_wD26Ixbc
 ### Cas optionnel
 Même consigne que pour le cas obligatoire, avec cette fois-ci la possibilité d'avoir n'importe lequel des liens, et un lag entier positif ou négatif.
 
-## Projet pré-fait
-Les projets pré-faits sont respectivement: <br>
+## Projets pré-faits
+Les projets proposés au sein du prorgamme sont respectivement: <br>
 (projet 1) https://youtu.be/4oDLMs11Exs <br>
 (projet 2) https://youtu.be/G5sz_ucbb9A <br>
 (projet 3) https://youtu.be/lMWi96SjZ1Y <br>
