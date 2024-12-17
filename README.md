@@ -1,4 +1,5 @@
-# Énoncé 
+# Mini Gestionnaire de projet
+## Énoncé 
 On considère un planning comme un ensemble de tâches, chacune possédant : un nom, une durée, et un ensemble de prédécesseurs.
 On considère 4 types de liens pour les prédécesseurs :
 - Fin-Début : Si A est prédécesseur de B, alors cela implique que B ne peux pas commencer tant que A n'est pas terminée
@@ -10,7 +11,7 @@ On considère 4 types de liens pour les prédécesseurs :
 
 Exemple : A est prédécesseur de B avec 1 jour de lag, cela signifie que B doit nécessairement commencer 1 jour après que 1 soit terminée.
 
-## Cas obligatoire
+### Cas obligatoire
 En considérant les plannings utilisés dans les vidéos fournies, écrire un programme qui affichera les durée et le chemin critique de chacun des projets. 
 Pour le cas obligatoire, on considère que tous les liens sont de type Fin-Début avec 0 de lag.
 https://youtu.be/4oDLMs11Exs
@@ -19,11 +20,18 @@ https://youtu.be/lMWi96SjZ1Y
 https://youtu.be/AGYdLUaZvDk
 https://youtu.be/Ex_wD26Ixbc
 
-## Cas optionnel
+### Cas optionnel
 Même consigne que pour le cas obligatoire, avec cette fois-ci la possibilité d'avoir n'importe lequel des liens, et un lag entier positif ou négatif.
 
+## Projet pré-fait
+Les projets pré-fait sont respectivement:
+(projet 1) https://youtu.be/4oDLMs11Exs
+(projet 2) https://youtu.be/G5sz_ucbb9A
+(projet 3) https://youtu.be/lMWi96SjZ1Y
+(projet 4) https://youtu.be/AGYdLUaZvDk
+(projet 5) https://youtu.be/Ex_wD26Ixbc
 
-# Lancer le programme
+## Lancer le programme
 Rentrez dans la classe Main.java pour lancer le programme.
 
 Le programme se lancera sur Terminal.
