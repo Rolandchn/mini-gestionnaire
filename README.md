@@ -13,7 +13,7 @@ Exemple : A est prédécesseur de B avec 1 jour de lag, cela signifie que B doit
 
 ### Cas obligatoire
 En considérant les plannings utilisés dans les vidéos fournies, écrire un programme qui affichera les durée et le chemin critique de chacun des projets. 
-Pour le cas obligatoire, on considère que tous les liens sont de type Fin-Début avec 0 de lag.
+Pour le cas obligatoire, on considère que tous les liens sont de type Fin-Début avec 0 de lag. <br>
 https://youtu.be/4oDLMs11Exs <br>
 https://youtu.be/G5sz_ucbb9A <br>
 https://youtu.be/lMWi96SjZ1Y <br>
@@ -24,7 +24,7 @@ https://youtu.be/Ex_wD26Ixbc
 Même consigne que pour le cas obligatoire, avec cette fois-ci la possibilité d'avoir n'importe lequel des liens, et un lag entier positif ou négatif.
 
 ## Projet pré-fait
-Les projets pré-fait sont respectivement:
+Les projets pré-fait sont respectivement: <br>
 (projet 1) https://youtu.be/4oDLMs11Exs <br>
 (projet 2) https://youtu.be/G5sz_ucbb9A <br>
 (projet 3) https://youtu.be/lMWi96SjZ1Y <br>
