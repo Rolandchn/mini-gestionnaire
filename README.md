@@ -32,8 +32,10 @@ Les projets proposés au sein du prorgamme sont respectivement: <br>
 (projet 5) https://youtu.be/Ex_wD26Ixbc
 
 ## Lancer le programme
+```bash
 git clone https://github.com/Rolandchn/mini-gestionnaire.git
 cd mini-gestionnaire
+```
 
 Lancer le programme.
 
