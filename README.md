@@ -32,6 +32,9 @@ Les projets proposés au sein du prorgamme sont respectivement: <br>
 (projet 5) https://youtu.be/Ex_wD26Ixbc
 
 ## Lancer le programme
-Rentrez dans la classe Main.java pour lancer le programme.
+git clone https://github.com/Rolandchn/mini-gestionnaire.git
+cd mini-gestionnaire
+
+Lancer le programme.
 
 Le programme se lancera sur Terminal.
